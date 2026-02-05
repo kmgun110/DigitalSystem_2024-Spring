@@ -1,4 +1,4 @@
-# Digital System (ICE3024) 
+# Digital System (ICE3024, 2024 Spring) 
 
 VHDL implementations for three assignments.
 
