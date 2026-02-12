@@ -1,4 +1,4 @@
-# Digital System (ICE3024, 2024 Spring) 
+# Digital Systems (ICE3024, 2024 Spring) 
 
 VHDL implementations for designing digital systems.
 
